@@ -189,13 +189,13 @@ ul#nav li.current a, ul#nav li:hover a
   height: 30px;} 
 
 #content
-{ width: 650px;
+{ width: 95%;
   margin: 0 50px 20px 0;
   padding-left: 20px;
   float: left;}
 
 .content_item
-{ width: 670px;
+{ width: 100%;
   margin-top: 20px;
   margin-bottom: 20px;}
  
